@@ -54,6 +54,6 @@ Site Reliablity Engineer, DevOps Engineer, Cloud Engineer
 #### More about me
 
 <div>
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=guessi&show_icons=true&include_all_commits=true&count_private=true" alt="guessi's github stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guessi&layout=compact&count_private=true" alt="guessi's language stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=guessi&show_icons=true&include_all_commits=true&count_private=true&theme=nord" alt="guessi's github stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guessi&layout=compact&count_private=true&theme=nord" alt="guessi's language stats" />
 </div>
