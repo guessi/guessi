@@ -22,11 +22,13 @@ Site Reliablity Engineer, DevOps Engineer, Cloud Engineer, Technical Support Eng
   <img src="https://skillicons.dev/icons?perline=5&i=grafana,prometheus,ansible,nginx,jenkins" />
   <br />
   <!-- Made by HashiCorp -->
-  <img style="height:52px; width:52px;" src="https://www.datocms-assets.com/2885/1588888060-terraformverticallogofullcolorrgb.svg" />
-  <img style="height:52px; width:52px;" src="https://www.datocms-assets.com/2885/1588883226-packerverticallogofullcolorrgb.svg" />
-  <img style="height:52px; width:52px;" src="https://www.datocms-assets.com/2885/1588883135-vagrantverticallogofullcolorrgb.svg" />
-  <img style="height:52px; width:52px;" src="https://www.datocms-assets.com/2885/1588890812-vaultverticallogofullcolorrgb.svg" />
-  <img style="height:52px; width:52px;" src="https://www.datocms-assets.com/2885/1588888990-consulverticallogofullcolorrgb.svg" />
+  <div>
+    <img width="52" height="52" src="https://www.datocms-assets.com/2885/1588888060-terraformverticallogofullcolorrgb.svg" />
+    <img width="52" height="52" src="https://www.datocms-assets.com/2885/1588883226-packerverticallogofullcolorrgb.svg" />
+    <img width="52" height="52" src="https://www.datocms-assets.com/2885/1588883135-vagrantverticallogofullcolorrgb.svg" />
+    <img width="52" height="52" src="https://www.datocms-assets.com/2885/1588890812-vaultverticallogofullcolorrgb.svg" />
+    <img width="52" height="52" src="https://www.datocms-assets.com/2885/1588888990-consulverticallogofullcolorrgb.svg" />
+  </div>
 </p>
 
 #### More about me
